@@ -1,2 +1,2 @@
-# zorglux.works
+# [zorglux](https://www.zorglux.works)
 Zorglux repo to help the ranking of zorglux.works website
